@@ -10,17 +10,27 @@
 
 ###
 
-<h2 align="left">Обо мне👨‍💻</h2>
+<h3 align="left">Обо мне👨‍💻</h3>
 <p align="left">Я начинающий Python-разработчик.  Учусь в SkillFactory и начал свой путь с разработки Python. В данный момент при бэкенд-разработке используются FastAPI и Django. Параллельно изучаю искусственный интеллект, потому что хочу интегрировать его в проекты в будущем. Моя цель — научиться создавать качественные рабочие приложения, для чего планирую также освоить фронтенд. Постоянно работаю над проектами, чтобы применить полученные знания на практике.</p>
 
-###
-
-<br clear="both">
+<h3 align="left">Связаться со мной📬</h3>
+<p align="left">
+  <a href="https://t.me/Sky_fower" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" width="30"/> Telegram
+  </a>
+</p>
+<p align="left">
+  <a href="mailto:dimakanny@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" width="30"/> Gmail
+  </a>
+</p>
+<p align="left">
+  <a href="https://discord.com/users/425017199892365322" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="discord" width="30"/> Discord
+  </a>
+</p>
 
 <h3 align="left">Навыки:</h3>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
