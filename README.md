@@ -14,9 +14,12 @@
 <p align="left">Я начинающий Python-разработчик.  Учусь в SkillFactory и начал свой путь с разработки Python. В данный момент при бэкенд-разработке используются FastAPI и Django. Параллельно изучаю искусственный интеллект, потому что хочу интегрировать его в проекты в будущем. Моя цель — научиться создавать качественные рабочие приложения, для чего планирую также освоить фронтенд. Постоянно работаю над проектами, чтобы применить полученные знания на практике.</p>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </div>
+
+###
+
 
 <h3 align="left">Навыки:</h3>
 <div align="left">
