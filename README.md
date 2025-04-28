@@ -52,6 +52,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Foling-sky/Foling-sky/output/snake.svg" alt="Snake animation" />
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ###
