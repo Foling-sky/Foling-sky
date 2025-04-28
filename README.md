@@ -1,83 +1,29 @@
-<div align="center">
-  <img height="300" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU4MDA5OTYsIm5iZiI6MTc0NTgwMDY5NiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDI4VDAwMzgxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI4MmNhM2MxZDZjMGRiMjcwYmJlYWI5ODE4OWJkODNmZjdiNDI4Nzk1MGRlMjcyZGQ5ZWRkNzUzYmYyNTU1NTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.FPzVM_6Z2-HaD6vNK2zTwUe2Rq9aTP1xCk2wPFszw8w"  />
-</div>
+Привет, меня зовут Дима Канны. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) ================================================================ ================================================================= Я Python-разработчик -------------------- Я учусь в SkillFactory и начал свой путь с разработки Python. На данный момент при бэкенд-разработке использовались FastAPI и Django. Параллельно изучаю искусственный интеллект, потому что хочу интегрировать его в проекты в будущем. Моя цель — научиться производить качественные рабочие приложения, для планирования чего также освоить фронтенд. Постоянно работаю над проектами, чтобы применить полученные знания на практике. * 🌍Я живу в Беларуси. * ✉️ Вы можете связаться со мной по адресу [dimakanny@gmail.com](mailto:dimakanny@gmail.com)[](mailto:dimakanny@gmail.com)
 
-###
+### Навыки
 
-<h2 align="center">Привет 👋! Меня зовут Дима!</h2>
 
-###
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Быстрый API" /></a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+</p>
 
-<h3 align="left">Обо мне👨‍💻</h3>
 
-###
+### Социальные сети
 
-<br clear="both">
+<p align="left"> </p> <a href="https://discord.com/users/foling_sky" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Foling-sky" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" высота="32" /> </picture> </a>
 
-<p align="left">Я начинающий Python-разработчик.  Учусь в SkillFactory и начал свой путь с разработки Python. В данный момент при бэкенд-разработке используются FastAPI и Django. Параллельно изучаю искусственный интеллект, потому что хочу интегрировать его в проекты в будущем. Моя цель — научиться создавать качественные рабочие приложения, для чего планирую также освоить фронтенд. Постоянно работаю над проектами, чтобы применить полученные знания на практике.</p>
+### Значки
 
-###
+<b>Моя статистика GitHub</b>
 
-<br clear="both">
+<a href="http://www.github.com/Foling-sky"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Foling-sky&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<h3 align="left">Навыки:</h3>
+<a href="https://github.com/Foling-sky" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foling-sky&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-###
+### Поддержите меня
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-</div>
+<ul style="list-style-type: none; margin: 0;">
 
-###
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/FOling"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
-<br clear="both">
-
-<h3 align="left">Социальные сети:</h3>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <a href="https://t.me/Sky_fower" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="dimakanny@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://discord.com/users/425017199892365322" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Foling-sky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="180" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Foling-sky&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="180" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Foling-sky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="180" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Foling-sky/Foling-sky/output/snake.svg" alt="Snake animation" />
-
-###
+</ul>
