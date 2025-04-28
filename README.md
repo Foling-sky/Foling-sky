@@ -6,17 +6,17 @@
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Привет 👋! Меня зовут Дима!</h1>
 
-
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+</div>
 
 ###
 
 <h3 align="left">Обо мне👨‍💻</h3>
 <p align="left">Я начинающий Python-разработчик.  Учусь в SkillFactory и начал свой путь с разработки Python. В данный момент при бэкенд-разработке используются FastAPI и Django. Параллельно изучаю искусственный интеллект, потому что хочу интегрировать его в проекты в будущем. Моя цель — научиться создавать качественные рабочие приложения, для чего планирую также освоить фронтенд. Постоянно работаю над проектами, чтобы применить полученные знания на практике.</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-</div>
+
 
 ###
 
@@ -42,6 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Foling-sky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="180" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Foling-sky&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="180" alt="streak graph"  />
