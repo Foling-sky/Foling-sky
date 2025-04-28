@@ -15,18 +15,18 @@
 
 <h3 align="left">Связаться со мной📬</h3>
 <p align="left">
-  <a href="https://t.me/Sky_fower" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" width="30"/> Telegram
+  <a href="https://t.me/Sky_fower" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="telegram" width="20" style="vertical-align:middle;"/> Telegram
   </a>
 </p>
 <p align="left">
-  <a href="mailto:dimakanny@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" width="30"/> Gmail
+  <a href="mailto:dimakanny@gmail.com" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" width="20" style="vertical-align:middle;"/> Gmail
   </a>
 </p>
 <p align="left">
-  <a href="https://discord.com/users/425017199892365322" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="discord" width="30"/> Discord
+  <a href="https://discord.com/users/425017199892365322" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" alt="discord" width="20" style="vertical-align:middle;"/> Discord
   </a>
 </p>
 
