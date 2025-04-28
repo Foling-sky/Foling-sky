@@ -45,6 +45,9 @@
 
 ###
 
+<p align="center">
+ <img width="600" src="github-snake.svg" alt="snake"/>
+</p>
 
 <h3 align="left">🔥 Моя статистика :</h3>
 <div align="center">
@@ -56,8 +59,6 @@
 
 <br clear="both">
 
-<p align="center">
- <img width="600" src="github-snake.svg" alt="snake"/>
-</p>
+
 
 ###
